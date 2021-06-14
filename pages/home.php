@@ -28,9 +28,11 @@
 <iframe id="BlogFilms"
     title="films"
     width="100%"
-    height="100%"
+    height="500px"
+    frameBorder="0"
     src="films/index.php">
 </iframe>
+</br>
 </br>
 
 <div class="films" style="padding-top: 20px; background-color: white; border-radius: 30px; text-align: center; ">
