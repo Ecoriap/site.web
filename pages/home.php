@@ -1,36 +1,95 @@
 <h2 class="header">Home</h2>
-<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aspernatur consectetur consequuntur dolores
-    ducimus eligendi eveniet expedita facere incidunt natus quam quibusdam quidem, repellat sed sunt tempore voluptatem?
-    Eligendi, ipsa!
+
+</br>
+<div class="wrapper">
+      <div class="search-input">
+        <a href="" target="_blank" hidden></a>
+        <input type="text" placeholder="Exemple: Harry Potter..">
+        <div class="autocom-box">
+          <!-- here list are inserted from javascript -->
+        </div>
+        <div class="icon"><i>&#128270;</i></div>
+      </div>
+    </div>
+ 
+     <script src="js/suggestions.js"></script> 
+     <script src="js/script.js"></script> 
+
+
+</br>
+</br>
+<div class="films" style="padding-top: 20px; background-color: white; border-radius: 30px; text-align: center; ">
+	
+	<h2>Films:</h2>
+	
+	</br>
+</br>
+</br>
+
+	
+	<a href="films/Supercondriaque/index.html"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
+	<a href="films/Harry Potter | FR/index.html"><img src="films/Harry Potter | FR/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
+	<a href="films/Dark Phoenix | FR/index.html"><img src="films/Dark Phoenix | FR/Affiche.jpg" alt="Dark Phoenix" id="carre"></a>
+	<a href="films/Mission-Cleopatre/index.html"><img src="films/Mission-Cleopatre/Affiche.jpg" alt="Astérix Mission Cléopâtre" id="carre"></a>
+	<a href="films/Demon Slayer/index.html"><img src="films/Demon Slayer/Affiche.jpeg" alt="Demon Slayer" id="carre"></a>
+	<a href="films/Charles Palant/index.html"><img src="films/Charles Palant/Affiche.jpg" alt="Charles Palant" id="carre"></a>
+	<a href="films/Radin!/index.html"><img src="films/Radin!/Affiche.jpg" alt="Radin !" id="carre"></a>
+	<a href="films/Mulan | FR/index.html"><img src="films/Mulan | FR/Affiche.jpg" alt="Mulan" id="carre"></a>
+	<a href="films/Patients/index.html"><img src="films/Patients/Affiche.jpg" alt="Patients" id="carre"></a>
+	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
+	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
+	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
+	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
+	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
+	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
+	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
+	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
+	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
 </div>
-<div>Aperiam autem beatae consequuntur cum dicta eligendi eum ex fugiat laboriosam molestiae neque numquam quaerat
-    quidem similique sint, sunt, vitae voluptatem! Assumenda earum est eveniet exercitationem facilis iusto recusandae
-    voluptas?
+</br>
+
+<div class="films" style="padding-top: 20px; background-color: white; border-radius: 30px; text-align: center; ">
+	
+	<h2>Applications:</h2>
+	
+	
+</br>
+</br>
+ 
+    <h3>Android:</h3>
+
+      <a href="apli/brave/"><img src="apli/brave/brave.jpeg" alt="Brave" id="carrea"></a>
+      <a href="apli/minetest/minetest.apk" download><img src="apli/minetest/logo.jpg" alt="Minetest" id="carrea"></a>
+   
+
+</br>
+    <h3>Ios:</h3>
+
+      <a href="https://apps.apple.com/fr/app/navigateur-internet-brave-vpn/id1052879175"><img src="apli/brave/brave.jpeg" alt="Brave" id="carrea"></a>
+
+</br>
+    <h3>Windows:</h3>
+	
+      <a href="apli/brave/BraveBrowserSetup.exe" download><img src="apli/brave/brave.jpeg" alt="Brave" id="carrea"></a>
+      <a href="apli/minetest/minetest.zip" download><img src="apli/minetest/logo.jpg" alt="Minetest" id="carrea"></a>
+      
+
 </div>
-<div>Cupiditate in minus quas quis ut? Commodi consequatur magnam nam quidem sapiente sequi sit veritatis voluptatem!
-    Dolore earum inventore nemo quaerat sequi? Doloremque earum ipsam ipsum, quidem ratione sapiente vero!
+
+</br>
+<div class="youtube" style="padding-top: 20px; background-color: purple; border-radius: 30px; text-align: center; ">
+        <h2>Chaînes youtube:</h2>
+	<a href="chaines/youtube/Underscore_"><img src="logo/chaines/youtube/Underscore.png" alt="Underscore_" id="cercle" height="30px"></a>
+	<a href="chaines/youtube/ben/"><img src="logo/chaines/youtube/ben.png" alt="Ben" id="cercle" height="30px"></a>
+
 </div>
-<div>A amet aperiam, aspernatur assumenda culpa dolores doloribus eaque esse harum, itaque labore magnam magni minus
-    molestias obcaecati optio pariatur, sapiente similique vero voluptates? Ad consectetur illum labore nobis quia.
-</div>
-<div>Autem consequuntur cupiditate debitis dolore dolorem est, et eveniet exercitationem fugit hic in ipsam labore
-    obcaecati omnis, optio praesentium quae quibusdam recusandae reiciendis rem repudiandae sed sequi ut. Ex, expedita!
-</div>
-<div>Aliquam, architecto aspernatur at cum delectus distinctio doloremque doloribus earum exercitationem facilis fugiat
-    ipsa ipsam labore maiores molestias nulla odio porro praesentium reprehenderit repudiandae rerum sunt temporibus
-    tenetur, totam ut.
-</div>
-<div>Ad blanditiis consectetur, dicta distinctio doloremque eaque enim error illum ipsam iure laudantium minima minus
-    nesciunt nobis nulla numquam pariatur qui quod repellendus repudiandae sapiente sint, sunt ullam? Aut, quod?
-</div>
-<div>Aliquid, aspernatur dolorum earum in obcaecati provident sequi veritatis? At dolore doloribus eveniet facere harum
-    maiores molestiae nihil perferendis quis quo sint, ullam unde velit voluptas, voluptate. Ab, impedit veritatis.
-</div>
-<div>Corporis cum fugit magni rem repudiandae velit, voluptates. A accusantium consequuntur debitis dicta eos et
-    exercitationem expedita fuga id, in modi molestias, necessitatibus obcaecati pariatur qui quis saepe soluta
-    voluptate!
-</div>
-<div>Animi aperiam at culpa dignissimos distinctio dolor dolore, eveniet facilis ipsam iure laborum libero magnam maxime
-    molestiae natus neque nesciunt officia perspiciatis possimus provident quam totam voluptates voluptatibus.
-    Assumenda, tenetur?
+</br>
+
+<div class="fin" style="padding-top: 20px; background-color: grey; border-radius: 30px; text-align: center; ">
+	<a href="https://github.com/Ecoledelaliberte/"><img src="logo/github.png" height="25px";></a>
+	<a href="https://www.youtube.com/channel/UCCH6PipWBJpsmTgrBi-jQOQ"><img src="logo/youtube.png" height="25px";></a>
+	<a href="https://odysee.com/@ecoria:b"><img src="logo/odysee.png" height="25px"></a>
+	</br>
+	<p>&#169; Copyright 2020-2021 Pierric</p>
+
 </div>
