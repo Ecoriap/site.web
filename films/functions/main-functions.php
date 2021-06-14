@@ -4,9 +4,9 @@
 
     //A modifier en fonction de vos indentifiants de base de donnée
     $dbhost = 'localhost';
-    $dbname = 'blog';//Ne doit pas être modifié si vous avez appelé votre bdd "blog"
+    $dbname = 'TranspoBlogFilms';//Ne doit pas être modifié si vous avez appelé votre bdd "blog"
     $dbuser = 'root';
-    $dbpswd = '';
+    $dbpswd = 'Antoine@01.';
     //A partir d'ici, vous ne devez plus rien modifier
 
     try{
