@@ -33,7 +33,7 @@
     src="films/index.php">
 </iframe>
 </br>
-</br>
+</div>
 
 <div class="films" style="padding-top: 20px; background-color: white; border-radius: 30px; text-align: center; ">
 	
