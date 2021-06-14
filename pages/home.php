@@ -32,9 +32,9 @@
     frameBorder="0"
     src="films/index.php">
 </iframe>
-</br>
-</div>
 
+</div>
+</br>
 <div class="films" style="padding-top: 20px; background-color: white; border-radius: 30px; text-align: center; ">
 	
 	<h2>Applications:</h2>
