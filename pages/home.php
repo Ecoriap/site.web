@@ -24,28 +24,8 @@
 	
 	</br>
 </br>
-</br>
 
-	
-	<a href="films/Supercondriaque/index.html"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-	<a href="films/Harry Potter | FR/index.html"><img src="films/Harry Potter | FR/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-	<a href="films/Dark Phoenix | FR/index.html"><img src="films/Dark Phoenix | FR/Affiche.jpg" alt="Dark Phoenix" id="carre"></a>
-	<a href="films/Mission-Cleopatre/index.html"><img src="films/Mission-Cleopatre/Affiche.jpg" alt="Astérix Mission Cléopâtre" id="carre"></a>
-	<a href="films/Demon Slayer/index.html"><img src="films/Demon Slayer/Affiche.jpeg" alt="Demon Slayer" id="carre"></a>
-	<a href="films/Charles Palant/index.html"><img src="films/Charles Palant/Affiche.jpg" alt="Charles Palant" id="carre"></a>
-	<a href="films/Radin!/index.html"><img src="films/Radin!/Affiche.jpg" alt="Radin !" id="carre"></a>
-	<a href="films/Mulan | FR/index.html"><img src="films/Mulan | FR/Affiche.jpg" alt="Mulan" id="carre"></a>
-	<a href="films/Patients/index.html"><img src="films/Patients/Affiche.jpg" alt="Patients" id="carre"></a>
-	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-	<a href="#"><img src="films/Supercondriaque/Affiche.jpg" alt="Supercondriaque" id="carre"></a>
-</div>
+<?php include 'films/index.php'; ?>
 </br>
 
 <div class="films" style="padding-top: 20px; background-color: white; border-radius: 30px; text-align: center; ">
