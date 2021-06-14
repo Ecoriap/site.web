@@ -21,7 +21,7 @@
 <html lang="fr">
     <head>
         <meta charset="UTF-8">
-        <title>Application web de tchat</title>
+        <title>TranspoFilms</title>
         <link rel="stylesheet" href="css/style.css"/>
         <link href='http://fonts.googleapis.com/css?family=Roboto:500,700,400' rel='stylesheet' type='text/css'>
     </head>
