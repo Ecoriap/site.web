@@ -32,7 +32,7 @@
         
         <div class="container">
             <?php
-                include 'pages/'.$page.'.php';
+                include 'films/pages/'.$page.'.php';
             ?>
         </div>
 
@@ -42,7 +42,7 @@
         <script type="text/javascript" src="films/js/materialize.js"></script>
         <script type="text/javascript" src="films/js/script.js"></script>
         <?php
-            $pages_js = scandir('js/');
+            $pages_js = scandir('films/js/');
             if(in_array($page.'.func.js',$pages_js)){
                 ?>
                     <script type="text/javascript" src="films/js/<?= $page ?>.func.js"></script>
