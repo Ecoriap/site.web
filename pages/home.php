@@ -1,4 +1,4 @@
-<h2 class="header">Home</h2>
+
 
 </br>
 <div class="wrapper">
