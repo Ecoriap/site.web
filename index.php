@@ -25,7 +25,6 @@
         <link rel="stylesheet" href="css/style.css"/>
         <link href='http://fonts.googleapis.com/css?family=Roboto:500,700,400' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="css/barre.css">
 	<link rel="stylesheet" type="text/css" href="css/formes.css">
 	<link rel="stylesheet" href="css/recherche.css">
 	 
